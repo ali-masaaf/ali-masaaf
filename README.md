@@ -16,4 +16,4 @@ Currently I'm sharping my ReactJS skills, also I designe for the Daily UI challe
   <img align="left"  alt="MASAAF ali discord" width="22px" src="https://github.com/ali-masaaf/ali-masaaf/blob/master/src/discord.svg" />
 </a><br><br>
 
->fell free to salute me back on at ali.masaaf@gmail.com.
+>fell free to salute me back at ali.masaaf@gmail.com.
